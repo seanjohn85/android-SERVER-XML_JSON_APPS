@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<footballers>
+    <footballer>
+        <name>Wayne Rooney</name>
+        <team>Manchester United</team>
+        <number>10</number>
+        <dob>00/00/0000</dob>
+        <position>Striker</position>
+        <playing>true</playing>
+        <photo>rooney.jpeg</photo>
+    </footballer>
+    <footballer>
+        <name>Paul Pogba</name>
+        <team>Manchester United</team>
+        <number>6</number>
+        <dob>00/00/0000</dob>
+        <position>Midfeilder</position>
+        <playing>true</playing>
+        <photo>pogba.jpeg</photo>
+    </footballer>
+    <footballer>
+        <name>Romelu Lukaku</name>
+        <team>Everton</team>
+        <number>10</number>
+        <dob>00/00/0000</dob>
+        <position>Striker</position>
+        <playing>true</playing>
+        <photo>lukaku.jpeg</photo>
+    </footballer>
+    <footballer>
+        <name>Alexis Sánchez</name>
+        <team>Arsenal</team>
+        <number>7</number>
+        <dob>00/00/0000</dob>
+        <position>Midfeilder</position>
+        <playing>true</playing>
+        <photo>alexis.jpeg</photo>
+    </footballer>
+    <footballer>
+        <name>Mesut Özil</name>
+        <team>Arsenal</team>
+        <number>10</number>
+        <dob>00/00/0000</dob>
+        <position>Midfeilder</position>
+        <playing>true</playing>
+        <photo>ozil.jpeg</photo>
+    </footballer>
+    <footballer>
+        <name>Eden Hazard</name>
+        <team>Chelsea</team>
+        <number>17</number>
+        <dob>00/00/0000</dob>
+        <position>Midfeilder</position>
+        <playing>true</playing>
+        <photo>hazard.jpeg</photo>
+    </footballer>
+    <footballer>
+        <name>Chris Wood</name>
+        <team>Leeds United</team>
+        <number>9</number>
+        <dob>00/00/0000</dob>
+        <position>Striker</position>
+        <playing>true</playing>
+        <photo>wood.jpeg</photo>
+    </footballer>
+    <footballer>
+        <name>Sergio Agüero</name>
+        <team>Manchester City</team>
+        <number>10</number>
+        <dob>00/00/0000</dob>
+        <position>Striker</position>
+        <playing>true</playing>
+        <photo>sergio.jpeg</photo>
+    </footballer>
+    <footballer>
+        <name>David de Gea</name>
+        <team>Manchester United</team>
+        <number>1</number>
+        <dob>00/00/0000</dob>
+        <position>Goalkeeper</position>
+        <playing>true</playing>
+        <photo>gea.jpeg</photo>
+    </footballer>
+    
+</footballers>

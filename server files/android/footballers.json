@@ -1,0 +1,87 @@
+
+Formatted JSON:
+
+[
+   {
+      "name": "Wayne Rooney",
+      "team": "Manchester United",
+      "number": "10",
+      "dob": "00/00/0000",
+      "position": "Striker",
+      "playing": "true",
+      "photo": "rooney.jpeg"
+   },
+   {
+      "name": "Paul Pogba",
+      "team": "Manchester United",
+      "number": "6",
+      "dob": "00/00/0000",
+      "position": "Midfeilder",
+      "playing": "true",
+      "photo": "pogba.jpeg"
+   },
+   {
+      "name": "Romelu Lukaku",
+      "team": "Everton",
+      "number": "10",
+      "dob": "00/00/0000",
+      "position": "Striker",
+      "playing": "true",
+      "photo": "lukaku.jpeg"
+   },
+   {
+      "name": "Alexis Sánchez",
+      "team": "Arsenal",
+      "number": "7",
+      "dob": "00/00/0000",
+      "position": "Midfeilder",
+      "playing": "true",
+      "photo": "alexis.jpeg"
+   },
+   {
+      "name": "Mesut Özil",
+      "team": "Arsenal",
+      "number": "10",
+      "dob": "00/00/0000",
+      "position": "Midfeilder",
+      "playing": "true",
+      "photo": "ozil.jpeg"
+   },
+   {
+      "name": "Eden Hazard",
+      "team": "Chelsea",
+      "number": "17",
+      "dob": "00/00/0000",
+      "position": "Midfeilder",
+      "playing": "true",
+      "photo": "hazard.jpeg"
+   },
+   {
+      "name": "Chris Wood",
+      "team": "Leeds United",
+      "number": "9",
+      "dob": "00/00/0000",
+      "position": "Striker",
+      "playing": "true",
+      "photo": "wood.jpeg"
+   },
+   {
+      "name": "Sergio Agüero",
+      "team": "Manchester City",
+      "number": "10",
+      "dob": "00/00/0000",
+      "position": "Striker",
+      "playing": "true",
+      "photo": "sergio.jpeg"
+   },
+   {
+      "name": "David de Gea",
+      "team": "Manchester United",
+      "number": "1",
+      "dob": "00/00/0000",
+      "position": "Goalkeeper",
+      "playing": "true",
+      "photo": "gea.jpeg"
+   }
+]
+
